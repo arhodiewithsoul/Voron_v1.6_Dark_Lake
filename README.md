@@ -10,3 +10,7 @@ v1.6.2 XY joints are completely redesigned to bring belt path alignment consiste
 Controller board mounts for Fly Mini v1, TwoTrees E3 DIP, Ramps 1.4 and Raspberry Pi Zero are included under the 'Unsupported Controller' directory. Panel mounting for 3mm acrylic panels is styled sympathetically to bottom skirt aesthetic.
 
 Please follow the build guide for v1.8 printers as provided by the Voron development team. They already offer a substantial amount of information which covers every aspect of building a functional machine.
+
+![IMG_20210215_123016 (Large)](https://user-images.githubusercontent.com/80538348/112975809-fdb4ee80-914b-11eb-9690-1dd94bd08723.jpg)
+
+![IMG_20210224_171343 (Large)](https://user-images.githubusercontent.com/80538348/112975818-01e10c00-914c-11eb-8087-87f8b99fed6e.jpg)
