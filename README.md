@@ -13,4 +13,5 @@ Please follow the build guide for v1.8 printers as provided by the Voron develop
 
 ![IMG_20210215_123016 (Large)](https://user-images.githubusercontent.com/80538348/112975809-fdb4ee80-914b-11eb-9690-1dd94bd08723.jpg)
 
-![IMG_20210224_171343 (Large)](https://user-images.githubusercontent.com/80538348/112975818-01e10c00-914c-11eb-8087-87f8b99fed6e.jpg)
+![IMG_20210201_132335 (Large)](https://user-images.githubusercontent.com/80538348/113149652-28c23f80-922b-11eb-9908-027cbe79a90c.jpg)
+
